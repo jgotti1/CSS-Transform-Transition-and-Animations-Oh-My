@@ -1,1 +1,16 @@
+button {
+    background-color:ghostwhite 150%;
+    transition: 1s;
+    border: 0pt;
+}
+
+/*.captionoverlay h1, p {
+    text-align: left;
+    width: 75%;
+    color: brown;
+    padding-left: 150px;
+    background-color: transparent;
+    margin-top: 100px;
+    
+
 
